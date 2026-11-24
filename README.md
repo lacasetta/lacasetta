@@ -5,7 +5,7 @@
 <h3 align="center">Un appartement au cœur du centre historique, à une minute du port.</h3>
 
 <p align="center">
-  <a href="https://lacasettaa.netlify.app"><img alt="Le site" src="https://img.shields.io/badge/le_site-lacasettaa.netlify.app-E3C66A?style=for-the-badge&labelColor=0A0A0A"></a>
+  <a href="https://lacasetta-b93v.onrender.com"><img alt="Le site" src="https://img.shields.io/badge/le_site-lacasetta--b93v.onrender.com-E3C66A?style=for-the-badge&labelColor=0A0A0A"></a>
 </p>
 
 ---
